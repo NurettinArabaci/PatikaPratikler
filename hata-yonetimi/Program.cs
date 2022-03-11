@@ -7,7 +7,7 @@ namespace hata_yonetimi
         static void Main(string[] args)
         {
             // Hatayı kontrol etmek istediğimiz kod bloğu
-            /*try 
+            try 
             {
                 Console.WriteLine("Bir sayı giriniz: ");
                 int sayi= int.Parse(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace hata_yonetimi
             finally
             {
                 Console.WriteLine("İşlem tamamlandı!");
-            }*/
+            }
 
 
             try
