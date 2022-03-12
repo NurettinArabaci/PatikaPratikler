@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.exe
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.deps.json
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.runtimeconfig.json
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.runtimeconfig.dev.json
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.dll
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\ref\diziler-array-sinifi.dll
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\bin\Debug\net5.0\diziler-array-sinifi.pdb
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.AssemblyInfo.cs
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.dll
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\ref\diziler-array-sinifi.dll
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.pdb
+C:\Users\asus\Desktop\PatikaPratikler\diziler-array-sinifi\obj\Debug\net5.0\diziler-array-sinifi.genruntimeconfig.cache
