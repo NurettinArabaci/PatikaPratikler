@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.exe
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.deps.json
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.runtimeconfig.json
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.runtimeconfig.dev.json
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.dll
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\ref\donguler-for.dll
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\bin\Debug\net5.0\donguler-for.pdb
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.AssemblyInfo.cs
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.dll
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\ref\donguler-for.dll
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.pdb
+C:\Users\asus\Desktop\PatikaPratikler\donguler-for\obj\Debug\net5.0\donguler-for.genruntimeconfig.cache
